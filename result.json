@@ -1,0 +1,1662 @@
+[
+  {
+    "email": "virgil031299@gmail.com",
+    "age": "21 - 25",
+    "interested": true,
+    "know": true,
+    "preference": 1,
+    "cities": [
+      "LILLE",
+      "LAON"
+    ],
+    "marks": [],
+    "colors": [],
+    "sizes": [
+      41,
+      42
+    ]
+  },
+  {
+    "email": "leynaic.brisse@gmail.com",
+    "age": "21 - 25",
+    "interested": true,
+    "know": false,
+    "preference": 1,
+    "cities": [
+      "LILLE"
+    ],
+    "marks": [],
+    "colors": [
+      "NOIR",
+      "BLANC",
+      "ROUGE"
+    ],
+    "sizes": [
+      41,
+      42
+    ]
+  },
+  {
+    "email": "turkilynda12@gmail.com",
+    "age": "21 - 25",
+    "interested": true,
+    "know": false,
+    "preference": 1,
+    "cities": [
+      "PARIS",
+      "BRUXELLES"
+    ],
+    "marks": [
+      "CONVERSE",
+      "NIKE"
+    ],
+    "colors": [],
+    "sizes": [
+      38,
+      39
+    ]
+  },
+  {
+    "email": "gabriel.forestal2010@gmail.com",
+    "age": "16 - 20",
+    "interested": true,
+    "know": false,
+    "preference": 0,
+    "cities": [
+      "LAON",
+      "REIMS"
+    ],
+    "marks": [],
+    "colors": [],
+    "sizes": [
+      43,
+      44
+    ]
+  },
+  {
+    "email": "lacikica@gmail.com",
+    "age": "16 - 20",
+    "interested": true,
+    "know": false,
+    "preference": 0,
+    "cities": [
+      "LILLE"
+    ],
+    "marks": [],
+    "colors": [],
+    "sizes": [
+      39,
+      40
+    ]
+  },
+  {
+    "email": "lilacam16@hormail.fr",
+    "age": "21 - 25",
+    "interested": true,
+    "know": true,
+    "preference": 0,
+    "cities": [
+      "PARIS"
+    ],
+    "marks": [
+      "CONVERSE"
+    ],
+    "colors": [
+      "ORANGE",
+      "BLANC"
+    ],
+    "sizes": [
+      36,
+      37
+    ]
+  },
+  {
+    "email": "charlottesandras51120@gmail.com",
+    "age": "16 - 20",
+    "interested": false,
+    "know": false,
+    "preference": 2,
+    "cities": [],
+    "marks": [],
+    "colors": [],
+    "sizes": []
+  },
+  {
+    "email": "delplace.nicolas@gmail.com",
+    "age": "21 - 25",
+    "interested": true,
+    "know": true,
+    "preference": 1,
+    "cities": [
+      "LILLE"
+    ],
+    "marks": [
+      "DOC MARTEN"
+    ],
+    "colors": [
+      "ROUGE",
+      "VERT",
+      "VIOLET"
+    ],
+    "sizes": [
+      42,
+      43
+    ]
+  },
+  {
+    "email": "sam-martins@outlook.fr",
+    "age": "21 - 25",
+    "interested": true,
+    "know": false,
+    "preference": 1,
+    "cities": [
+      "REIMS"
+    ],
+    "marks": [],
+    "colors": [
+      "ROUGE",
+      "BLEU"
+    ],
+    "sizes": [
+      42,
+      43
+    ]
+  },
+  {
+    "email": "milan.filali@gmail.com",
+    "age": "21 - 25",
+    "interested": true,
+    "know": true,
+    "preference": 0,
+    "cities": [
+      "PARIS"
+    ],
+    "marks": [],
+    "colors": [],
+    "sizes": [
+      42,
+      43
+    ]
+  },
+  {
+    "email": "mascageorgie@hotmail.com",
+    "age": "21 - 25",
+    "interested": true,
+    "know": false,
+    "preference": 1,
+    "cities": [
+      "PARIS"
+    ],
+    "marks": [],
+    "colors": [],
+    "sizes": [
+      38,
+      39
+    ]
+  },
+  {
+    "email": "nicolas.gameiro@yahoo.fr",
+    "age": "26 - 30",
+    "interested": true,
+    "know": true,
+    "preference": 1,
+    "cities": [
+      "CHANTILLY"
+    ],
+    "marks": [],
+    "colors": [],
+    "sizes": [
+      43,
+      44
+    ]
+  },
+  {
+    "email": "luciesandras@gmail.com",
+    "age": "21 - 25",
+    "interested": true,
+    "know": true,
+    "preference": 1,
+    "cities": [
+      "REIMS",
+      "TROYES"
+    ],
+    "marks": [
+      "AIR FORCE 1"
+    ],
+    "colors": [],
+    "sizes": [
+      38,
+      39
+    ]
+  },
+  {
+    "email": "yanncresto@gmail.com",
+    "age": "21 - 25",
+    "interested": true,
+    "know": true,
+    "preference": 1,
+    "cities": [
+      "PARIS"
+    ],
+    "marks": [],
+    "colors": [
+      "NOIR",
+      "BLANC"
+    ],
+    "sizes": [
+      44,
+      45
+    ]
+  },
+  {
+    "email": "hendkap@gmail.com",
+    "age": "21 - 25",
+    "interested": true,
+    "know": true,
+    "preference": 0,
+    "cities": [
+      "REIMS"
+    ],
+    "marks": [],
+    "colors": [],
+    "sizes": [
+      40,
+      41
+    ]
+  },
+  {
+    "email": "marine.thimond@avizeviticampus.fr",
+    "age": "21 - 25",
+    "interested": false,
+    "know": false,
+    "preference": 2,
+    "cities": [],
+    "marks": [],
+    "colors": [],
+    "sizes": []
+  },
+  {
+    "email": "guenonthomas@sfr.fr",
+    "age": "21 - 25",
+    "interested": false,
+    "know": false,
+    "preference": 2,
+    "cities": [],
+    "marks": [],
+    "colors": [],
+    "sizes": []
+  },
+  {
+    "email": "leapayen@orange.fr",
+    "age": "21 - 25",
+    "interested": true,
+    "know": true,
+    "preference": 1,
+    "cities": [
+      "LILLE"
+    ],
+    "marks": [],
+    "colors": [],
+    "sizes": [
+      36,
+      37
+    ]
+  },
+  {
+    "email": "sofia.zouareg@hotmail.com",
+    "age": "21 - 25",
+    "interested": true,
+    "know": false,
+    "preference": 1,
+    "cities": [
+      "LILLE"
+    ],
+    "marks": [
+      "VANS"
+    ],
+    "colors": [
+      "BLANC",
+      "BEIGE"
+    ],
+    "sizes": [
+      38,
+      39
+    ]
+  },
+  {
+    "email": "theau.verheyde@hotmail.fr",
+    "age": "21 - 25",
+    "interested": true,
+    "know": true,
+    "preference": -1,
+    "cities": [
+      "PARIS",
+      "LILLE"
+    ],
+    "marks": [],
+    "colors": [
+      "BLEU",
+      "CANARD",
+      "BEIGE"
+    ],
+    "sizes": [
+      42,
+      43
+    ]
+  },
+  {
+    "email": "simartlea51@live.fr",
+    "age": "21 - 25",
+    "interested": true,
+    "know": true,
+    "preference": 1,
+    "cities": [
+      "BORDEAUX"
+    ],
+    "marks": [],
+    "colors": [],
+    "sizes": [
+      37,
+      38
+    ]
+  },
+  {
+    "email": "fannytrvd002@gmail.com",
+    "age": "16 - 20",
+    "interested": true,
+    "know": true,
+    "preference": 0,
+    "cities": [
+      "REIMS",
+      "AMIENS"
+    ],
+    "marks": [
+      "CONVERSE"
+    ],
+    "colors": [],
+    "sizes": [
+      39,
+      40
+    ]
+  },
+  {
+    "email": "enzo.pain.etu@univ-lille.fr",
+    "age": "21 - 25",
+    "interested": true,
+    "know": true,
+    "preference": 0,
+    "cities": [
+      "LILLE",
+      "ARRAS"
+    ],
+    "marks": [],
+    "colors": [],
+    "sizes": [
+      40,
+      41
+    ]
+  },
+  {
+    "email": "corinnelucot13@gmail.com",
+    "age": "51 - 60",
+    "interested": false,
+    "know": false,
+    "preference": 2,
+    "cities": [],
+    "marks": [],
+    "colors": [],
+    "sizes": []
+  },
+  {
+    "email": "roro.stof@gmail.com",
+    "age": "21 - 25",
+    "interested": true,
+    "know": true,
+    "preference": 0,
+    "cities": [
+      "AMIENS"
+    ],
+    "marks": [
+      "CONVERSE"
+    ],
+    "colors": [],
+    "sizes": [
+      37,
+      38
+    ]
+  },
+  {
+    "email": "bakirsofia@gmail.com",
+    "age": "21 - 25",
+    "interested": true,
+    "know": true,
+    "preference": 0,
+    "cities": [
+      "PARIS"
+    ],
+    "marks": [
+      "NIKE TN"
+    ],
+    "colors": [],
+    "sizes": [
+      38,
+      39
+    ]
+  },
+  {
+    "email": "dubrullemaeva02@gmail.com",
+    "age": "16 - 20",
+    "interested": true,
+    "know": false,
+    "preference": 1,
+    "cities": [
+      "LILLE"
+    ],
+    "marks": [],
+    "colors": [],
+    "sizes": [
+      37,
+      38
+    ]
+  },
+  {
+    "email": "jeanne.senechal99@gmail.com",
+    "age": "21 - 25",
+    "interested": true,
+    "know": true,
+    "preference": 0,
+    "cities": [
+      "LILLE",
+      "VALENCIENNES"
+    ],
+    "marks": [],
+    "colors": [],
+    "sizes": [
+      37,
+      38
+    ]
+  },
+  {
+    "email": "luc.thorel@hotmail.fr",
+    "age": "21 - 25",
+    "interested": true,
+    "know": true,
+    "preference": 0,
+    "cities": [
+      "LILLE"
+    ],
+    "marks": [],
+    "colors": [],
+    "sizes": [
+      43,
+      44
+    ]
+  },
+  {
+    "email": "mariechmp51@gmail.com",
+    "age": "21 - 25",
+    "interested": true,
+    "know": true,
+    "preference": 1,
+    "cities": [
+      "PARIS"
+    ],
+    "marks": [],
+    "colors": [
+      "NOIR",
+      "BLANC"
+    ],
+    "sizes": [
+      38,
+      39
+    ]
+  },
+  {
+    "email": "benlef99@gmail.com",
+    "age": "21 - 25",
+    "interested": true,
+    "know": true,
+    "preference": -1,
+    "cities": [
+      "LILLE"
+    ],
+    "marks": [],
+    "colors": [
+      "NOIR",
+      "BLANC"
+    ],
+    "sizes": [
+      42,
+      43
+    ]
+  },
+  {
+    "email": "adonisebo@gmail.com",
+    "age": "21 - 25",
+    "interested": true,
+    "know": true,
+    "preference": 1,
+    "cities": [
+      "NANTES",
+      "RENNES"
+    ],
+    "marks": [
+      "SNEAKER"
+    ],
+    "colors": [],
+    "sizes": [
+      42,
+      43
+    ]
+  },
+  {
+    "email": "angele.v@orange.fr",
+    "age": "21 - 25",
+    "interested": true,
+    "know": false,
+    "preference": -1,
+    "cities": [
+      "NANTES"
+    ],
+    "marks": [],
+    "colors": [
+      "NOIR",
+      "BLANC"
+    ],
+    "sizes": [
+      36,
+      37
+    ]
+  },
+  {
+    "email": "hugobriatte@gmail.com",
+    "age": "21 - 25",
+    "interested": false,
+    "know": false,
+    "preference": 2,
+    "cities": [],
+    "marks": [],
+    "colors": [],
+    "sizes": []
+  },
+  {
+    "email": "arthur.decaen33@gmail.com",
+    "age": "16 - 20",
+    "interested": false,
+    "know": false,
+    "preference": 2,
+    "cities": [],
+    "marks": [],
+    "colors": [],
+    "sizes": []
+  },
+  {
+    "email": "florent.durot2015@gmail.com",
+    "age": "21 - 25",
+    "interested": false,
+    "know": false,
+    "preference": 2,
+    "cities": [],
+    "marks": [],
+    "colors": [],
+    "sizes": []
+  },
+  {
+    "email": "dellaterra.carmelo@gmail.com",
+    "age": "21 - 25",
+    "interested": true,
+    "know": false,
+    "preference": 0,
+    "cities": [
+      "LILLE"
+    ],
+    "marks": [
+      "NIKE",
+      "ADIDAS",
+      "VANS"
+    ],
+    "colors": [],
+    "sizes": [
+      45,
+      46
+    ]
+  },
+  {
+    "email": "clement.dessingue@gmail.com",
+    "age": "21 - 25",
+    "interested": false,
+    "know": false,
+    "preference": 2,
+    "cities": [],
+    "marks": [],
+    "colors": [],
+    "sizes": []
+  },
+  {
+    "email": "aabzizou98@gmail.com",
+    "age": "21 - 25",
+    "interested": true,
+    "know": false,
+    "preference": 1,
+    "cities": [
+      "PARIS",
+      "LILLE"
+    ],
+    "marks": [],
+    "colors": [],
+    "sizes": [
+      42,
+      43
+    ]
+  },
+  {
+    "email": "f.amadoumouctar78@gmail.com",
+    "age": "21 - 25",
+    "interested": true,
+    "know": false,
+    "preference": 1,
+    "cities": [
+      "LILLE",
+      "PARIS"
+    ],
+    "marks": [],
+    "colors": [],
+    "sizes": [
+      40,
+      41
+    ]
+  },
+  {
+    "email": "Marco1605blabloue@gmail.com",
+    "age": "21 - 25",
+    "interested": true,
+    "know": true,
+    "preference": 0,
+    "cities": [
+      "LILLE"
+    ],
+    "marks": [],
+    "colors": [],
+    "sizes": [
+      45,
+      46
+    ]
+  },
+  {
+    "email": "alexis.inacio.etu@univ-lille.fr",
+    "age": "21 - 25",
+    "interested": true,
+    "know": true,
+    "preference": 1,
+    "cities": [
+      "LILLE"
+    ],
+    "marks": [],
+    "colors": [
+      "NOIR",
+      "BLANC"
+    ],
+    "sizes": [
+      42,
+      43
+    ]
+  },
+  {
+    "email": "hakim.hamidat.etu@univ-lille.fr",
+    "age": "21 - 25",
+    "interested": true,
+    "know": false,
+    "preference": -1,
+    "cities": [
+      "LILLE"
+    ],
+    "marks": [],
+    "colors": [
+      "BLANC",
+      "BLEU"
+    ],
+    "sizes": [
+      44,
+      45
+    ]
+  },
+  {
+    "email": "celinehm809@gmail.com",
+    "age": "21 - 25",
+    "interested": true,
+    "know": false,
+    "preference": 1,
+    "cities": [
+      "LILLE"
+    ],
+    "marks": [],
+    "colors": [
+      "NOIR",
+      "BLANC"
+    ],
+    "sizes": [
+      37,
+      38
+    ]
+  },
+  {
+    "email": "syx0105.lanzx@gmail.com",
+    "age": "26 - 30",
+    "interested": true,
+    "know": false,
+    "preference": 1,
+    "cities": [
+      "LILLE"
+    ],
+    "marks": [],
+    "colors": [
+      "NOIR",
+      "BLANC"
+    ],
+    "sizes": [
+      37,
+      38
+    ]
+  },
+  {
+    "email": "Antoine.lemay.59@gmail.com",
+    "age": "21 - 25",
+    "interested": true,
+    "know": true,
+    "preference": 0,
+    "cities": [
+      "LILLE"
+    ],
+    "marks": [],
+    "colors": [],
+    "sizes": [
+      41,
+      42
+    ]
+  },
+  {
+    "email": "adrien.morel0@gmail.com",
+    "age": "21 - 25",
+    "interested": true,
+    "know": true,
+    "preference": 1,
+    "cities": [
+      "LILLE",
+      "BRUXELLES"
+    ],
+    "marks": [],
+    "colors": [
+      "BLANC/ROUGE"
+    ],
+    "sizes": [
+      44,
+      45
+    ]
+  },
+  {
+    "email": "anais.rousl@gmail.com",
+    "age": "21 - 25",
+    "interested": true,
+    "know": false,
+    "preference": 0,
+    "cities": [
+      "LILLE"
+    ],
+    "marks": [
+      "CONVERSE",
+      "VANS"
+    ],
+    "colors": [
+      "MARRON",
+      "BEIGE"
+    ],
+    "sizes": [
+      36,
+      37
+    ]
+  },
+  {
+    "email": "psand51120@icloud.com",
+    "age": "21 - 25",
+    "interested": true,
+    "know": true,
+    "preference": 1,
+    "cities": [
+      "REIMS",
+      "TROYES",
+      "PARIS"
+    ],
+    "marks": [
+      "VANS",
+      "NIKE"
+    ],
+    "colors": [],
+    "sizes": [
+      44,
+      45
+    ]
+  },
+  {
+    "email": "mayadidon99@gmail.com",
+    "age": "21 - 25",
+    "interested": true,
+    "know": true,
+    "preference": 0,
+    "cities": [
+      "LILLE"
+    ],
+    "marks": [],
+    "colors": [],
+    "sizes": [
+      40,
+      41
+    ]
+  },
+  {
+    "email": "blondeau.aurelie51@yahoo.com",
+    "age": "31 - 40",
+    "interested": true,
+    "know": true,
+    "preference": 1,
+    "cities": [
+      "REIMS"
+    ],
+    "marks": [],
+    "colors": [
+      "ROSE"
+    ],
+    "sizes": [
+      37,
+      38
+    ]
+  },
+  {
+    "email": "elisebou33@gmail.com",
+    "age": "16 - 20",
+    "interested": true,
+    "know": true,
+    "preference": 0,
+    "cities": [
+      "ARRAS",
+      "LILLE"
+    ],
+    "marks": [
+      "CONVERSES"
+    ],
+    "colors": [],
+    "sizes": [
+      37,
+      38
+    ]
+  },
+  {
+    "email": "laurencia.fera0810@outlook.com",
+    "age": "21 - 25",
+    "interested": true,
+    "know": true,
+    "preference": 0,
+    "cities": [
+      "LILLE"
+    ],
+    "marks": [
+      "CONVERSES"
+    ],
+    "colors": [],
+    "sizes": [
+      39,
+      40
+    ]
+  },
+  {
+    "email": "licorne123@gmail.com",
+    "age": "16 - 20",
+    "interested": false,
+    "know": false,
+    "preference": 2,
+    "cities": [],
+    "marks": [],
+    "colors": [],
+    "sizes": []
+  },
+  {
+    "email": "frederique.alain02@gmail.com",
+    "age": "31 - 40",
+    "interested": true,
+    "know": true,
+    "preference": 1,
+    "cities": [
+      "LAON",
+      "SOISSONS",
+      "SAINT-QUENTIN",
+      "REIMS",
+      "CHÂLONS-EN-CHAMPAGNE"
+    ],
+    "marks": [],
+    "colors": [],
+    "sizes": [
+      37,
+      38
+    ]
+  },
+  {
+    "email": "alix_peltier@hotmail.com",
+    "age": "21 - 25",
+    "interested": false,
+    "know": false,
+    "preference": 2,
+    "cities": [],
+    "marks": [],
+    "colors": [],
+    "sizes": []
+  },
+  {
+    "email": "mathieu.claerhout@gmail.com",
+    "age": "21 - 25",
+    "interested": true,
+    "know": true,
+    "preference": 0,
+    "cities": [
+      "LILLE"
+    ],
+    "marks": [],
+    "colors": [],
+    "sizes": [
+      42,
+      43
+    ]
+  },
+  {
+    "email": "antoine.demory@outlook.com",
+    "age": "21 - 25",
+    "interested": true,
+    "know": true,
+    "preference": 0,
+    "cities": [
+      "LILLE",
+      "ARRAS"
+    ],
+    "marks": [
+      "PUMA",
+      "SUÈDE",
+      "🙄"
+    ],
+    "colors": [],
+    "sizes": [
+      41,
+      42
+    ]
+  },
+  {
+    "email": "vivian_dlny@hotmail.com",
+    "age": "21 - 25",
+    "interested": true,
+    "know": true,
+    "preference": 0,
+    "cities": [
+      "LILLE"
+    ],
+    "marks": [
+      "VANS"
+    ],
+    "colors": [],
+    "sizes": [
+      40,
+      41
+    ]
+  },
+  {
+    "email": "abc@gmail.com",
+    "age": "+60",
+    "interested": false,
+    "know": false,
+    "preference": 2,
+    "cities": [],
+    "marks": [],
+    "colors": [],
+    "sizes": []
+  },
+  {
+    "email": "aurelien.capron62@gmail.com",
+    "age": "21 - 25",
+    "interested": true,
+    "know": true,
+    "preference": 0,
+    "cities": [
+      "LENS",
+      "LILLE"
+    ],
+    "marks": [],
+    "colors": [],
+    "sizes": [
+      42,
+      43
+    ]
+  },
+  {
+    "email": "sylvain.camus15@gmail.com",
+    "age": "21 - 25",
+    "interested": true,
+    "know": false,
+    "preference": 1,
+    "cities": [
+      "ENNEVELIN"
+    ],
+    "marks": [],
+    "colors": [],
+    "sizes": [
+      41,
+      42
+    ]
+  },
+  {
+    "email": "maxime.delannoy@gmail.com",
+    "age": "31 - 40",
+    "interested": false,
+    "know": false,
+    "preference": 2,
+    "cities": [],
+    "marks": [],
+    "colors": [],
+    "sizes": []
+  },
+  {
+    "email": "nina.valentin@outlook.fr",
+    "age": "21 - 25",
+    "interested": false,
+    "know": false,
+    "preference": 2,
+    "cities": [],
+    "marks": [],
+    "colors": [],
+    "sizes": []
+  },
+  {
+    "email": "ozolozo1999@gmail.com",
+    "age": "21 - 25",
+    "interested": true,
+    "know": true,
+    "preference": 1,
+    "cities": [
+      "LILLE"
+    ],
+    "marks": [
+      "CONVERSE"
+    ],
+    "colors": [],
+    "sizes": [
+      43,
+      44
+    ]
+  },
+  {
+    "email": "bryanwaymel@gmail.com",
+    "age": "21 - 25",
+    "interested": false,
+    "know": false,
+    "preference": 2,
+    "cities": [],
+    "marks": [],
+    "colors": [],
+    "sizes": []
+  },
+  {
+    "email": "r@gmail.com",
+    "age": "21 - 25",
+    "interested": false,
+    "know": false,
+    "preference": 2,
+    "cities": [],
+    "marks": [],
+    "colors": [],
+    "sizes": []
+  },
+  {
+    "email": "rudy.mathieu@univ-lille.fr",
+    "age": "21 - 25",
+    "interested": true,
+    "know": true,
+    "preference": 1,
+    "cities": [
+      "LILLE",
+      "PARIS",
+      "BRUXELLES"
+    ],
+    "marks": [],
+    "colors": [
+      "NOIR",
+      "BLANC"
+    ],
+    "sizes": [
+      47,
+      48
+    ]
+  },
+  {
+    "email": "bricedespelchin@gmail.com",
+    "age": "21 - 25",
+    "interested": true,
+    "know": true,
+    "preference": 0,
+    "cities": [
+      "LILLE"
+    ],
+    "marks": [
+      "VANS"
+    ],
+    "colors": [],
+    "sizes": [
+      42,
+      43
+    ]
+  },
+  {
+    "email": "youssefhilili@icloud.com",
+    "age": "21 - 25",
+    "interested": false,
+    "know": false,
+    "preference": 2,
+    "cities": [],
+    "marks": [],
+    "colors": [],
+    "sizes": []
+  },
+  {
+    "email": "coline.andries@gmail.com",
+    "age": "21 - 25",
+    "interested": true,
+    "know": true,
+    "preference": -1,
+    "cities": [
+      "LILLE"
+    ],
+    "marks": [],
+    "colors": [
+      "ROUGE",
+      "VERT",
+      "JAUNE",
+      "ORANGE"
+    ],
+    "sizes": [
+      37,
+      38
+    ]
+  },
+  {
+    "email": "nadinesaadi42@yahoo.fr",
+    "age": "16 - 20",
+    "interested": false,
+    "know": false,
+    "preference": 2,
+    "cities": [],
+    "marks": [],
+    "colors": [],
+    "sizes": []
+  },
+  {
+    "email": "solignac.gauthier@gmail.com",
+    "age": "21 - 25",
+    "interested": true,
+    "know": false,
+    "preference": -1,
+    "cities": [
+      "LILLE"
+    ],
+    "marks": [],
+    "colors": [],
+    "sizes": [
+      42,
+      43
+    ]
+  },
+  {
+    "email": "titiana.elise@gmail.com",
+    "age": "21 - 25",
+    "interested": true,
+    "know": true,
+    "preference": 1,
+    "cities": [
+      "LILLE"
+    ],
+    "marks": [
+      "CONVERSE",
+      "VANS"
+    ],
+    "colors": [],
+    "sizes": [
+      39,
+      40
+    ]
+  },
+  {
+    "email": "faciquiditmoussa.doumbia.etu@univ-lille.fr",
+    "age": "21 - 25",
+    "interested": false,
+    "know": false,
+    "preference": 2,
+    "cities": [],
+    "marks": [],
+    "colors": [],
+    "sizes": []
+  },
+  {
+    "email": "maxime.soudant.etu@univ-lille.fr",
+    "age": "21 - 25",
+    "interested": false,
+    "know": false,
+    "preference": 2,
+    "cities": [],
+    "marks": [],
+    "colors": [],
+    "sizes": []
+  },
+  {
+    "email": "maxenceleq@gmail.com",
+    "age": "21 - 25",
+    "interested": true,
+    "know": true,
+    "preference": -1,
+    "cities": [
+      "LILLE",
+      "VALENCIENNES"
+    ],
+    "marks": [],
+    "colors": [
+      "NOIR",
+      "BLANC"
+    ],
+    "sizes": [
+      41,
+      42
+    ]
+  },
+  {
+    "email": "tarik.moulouel.etu@univ-lille.fr",
+    "age": "21 - 25",
+    "interested": true,
+    "know": false,
+    "preference": 0,
+    "cities": [
+      "LILLE"
+    ],
+    "marks": [],
+    "colors": [
+      "NOIR",
+      "BLANC"
+    ],
+    "sizes": [
+      41,
+      42
+    ]
+  },
+  {
+    "email": "bite@bite.fr",
+    "age": "21 - 25",
+    "interested": false,
+    "know": false,
+    "preference": 2,
+    "cities": [],
+    "marks": [],
+    "colors": [],
+    "sizes": []
+  },
+  {
+    "email": "najoua.zeryouh.etu@univ-lille.fr",
+    "age": "21 - 25",
+    "interested": true,
+    "know": true,
+    "preference": 1,
+    "cities": [
+      "LILLE",
+      "PARIS",
+      "TOULOUSE"
+    ],
+    "marks": [
+      "AIR JORDAN 1",
+      "AIR FORCE 1"
+    ],
+    "colors": [],
+    "sizes": [
+      36,
+      37
+    ]
+  },
+  {
+    "email": "lcoffin@decideom.fr",
+    "age": "21 - 25",
+    "interested": false,
+    "know": false,
+    "preference": 2,
+    "cities": [],
+    "marks": [],
+    "colors": [],
+    "sizes": []
+  },
+  {
+    "email": "sergent.cha07@gmail.com",
+    "age": "21 - 25",
+    "interested": false,
+    "know": false,
+    "preference": 2,
+    "cities": [],
+    "marks": [],
+    "colors": [],
+    "sizes": []
+  },
+  {
+    "email": "lucie.delville09@gmail.com",
+    "age": "21 - 25",
+    "interested": false,
+    "know": false,
+    "preference": 2,
+    "cities": [],
+    "marks": [],
+    "colors": [],
+    "sizes": []
+  },
+  {
+    "email": "maximinabou@gmail.com",
+    "age": "21 - 25",
+    "interested": false,
+    "know": false,
+    "preference": 2,
+    "cities": [],
+    "marks": [],
+    "colors": [],
+    "sizes": []
+  },
+  {
+    "email": "sadi123@hotmail.fr",
+    "age": "21 - 25",
+    "interested": false,
+    "know": false,
+    "preference": 2,
+    "cities": [],
+    "marks": [],
+    "colors": [],
+    "sizes": []
+  },
+  {
+    "email": "omar.kodeousmane.etu@univ-lille.fr",
+    "age": "16 - 20",
+    "interested": true,
+    "know": false,
+    "preference": 0,
+    "cities": [
+      "LILLE"
+    ],
+    "marks": [],
+    "colors": [
+      "BEIGE",
+      "MARRON",
+      "FONCÉ"
+    ],
+    "sizes": [
+      45,
+      46
+    ]
+  },
+  {
+    "email": "youcef.moukeut.etu@univ-lille.fr",
+    "age": "21 - 25",
+    "interested": true,
+    "know": true,
+    "preference": 1,
+    "cities": [
+      "LILLE"
+    ],
+    "marks": [],
+    "colors": [
+      "NOIR",
+      "BLANC"
+    ],
+    "sizes": [
+      43,
+      44
+    ]
+  },
+  {
+    "email": "kelean.gallet@gmail.com",
+    "age": "21 - 25",
+    "interested": false,
+    "know": false,
+    "preference": 2,
+    "cities": [],
+    "marks": [],
+    "colors": [],
+    "sizes": []
+  },
+  {
+    "email": "aissatouibrahima.diallo.etu@univ-lille.fr",
+    "age": "21 - 25",
+    "interested": false,
+    "know": false,
+    "preference": 2,
+    "cities": [],
+    "marks": [],
+    "colors": [],
+    "sizes": []
+  },
+  {
+    "email": "sami.lejeune017@gmail.com",
+    "age": "21 - 25",
+    "interested": false,
+    "know": false,
+    "preference": 2,
+    "cities": [],
+    "marks": [],
+    "colors": [],
+    "sizes": []
+  },
+  {
+    "email": "yannyuu5@gmail.com",
+    "age": "21 - 25",
+    "interested": false,
+    "know": false,
+    "preference": 2,
+    "cities": [],
+    "marks": [],
+    "colors": [],
+    "sizes": []
+  },
+  {
+    "email": "aymeric03d@gmail.com",
+    "age": "21 - 25",
+    "interested": false,
+    "know": false,
+    "preference": 2,
+    "cities": [],
+    "marks": [],
+    "colors": [],
+    "sizes": []
+  },
+  {
+    "email": "bankaert.benoit@gmail.com",
+    "age": "21 - 25",
+    "interested": false,
+    "know": false,
+    "preference": 2,
+    "cities": [],
+    "marks": [],
+    "colors": [],
+    "sizes": []
+  },
+  {
+    "email": "richard.deleplanque@gmail.com",
+    "age": "21 - 25",
+    "interested": false,
+    "know": false,
+    "preference": 2,
+    "cities": [],
+    "marks": [],
+    "colors": [],
+    "sizes": []
+  },
+  {
+    "email": "benedictuskent.rachmat.etu@univ-lille.fr",
+    "age": "21 - 25",
+    "interested": true,
+    "know": false,
+    "preference": 1,
+    "cities": [
+      "LILLE"
+    ],
+    "marks": [],
+    "colors": [
+      "NOIR",
+      "BLANC"
+    ],
+    "sizes": [
+      40,
+      41
+    ]
+  },
+  {
+    "email": "naero0902@gmail.com",
+    "age": "16 - 20",
+    "interested": true,
+    "know": false,
+    "preference": 0,
+    "cities": [
+      "LILLE",
+      "ARRAS"
+    ],
+    "marks": [],
+    "colors": [
+      "ROSE",
+      "BLEU"
+    ],
+    "sizes": [
+      35,
+      36
+    ]
+  },
+  {
+    "email": "jourdainlea05@gmail.com",
+    "age": "16 - 20",
+    "interested": true,
+    "know": true,
+    "preference": 0,
+    "cities": [
+      "LILLE"
+    ],
+    "marks": [
+      "CONVERSES"
+    ],
+    "colors": [],
+    "sizes": [
+      41,
+      42
+    ]
+  },
+  {
+    "email": "clotilde.choquet4@gmail.com",
+    "age": "21 - 25",
+    "interested": true,
+    "know": false,
+    "preference": 0,
+    "cities": [
+      "NANTES"
+    ],
+    "marks": [],
+    "colors": [],
+    "sizes": [
+      37,
+      38
+    ]
+  },
+  {
+    "email": "alexis37alexis@gmail.com",
+    "age": "16 - 20",
+    "interested": false,
+    "know": false,
+    "preference": 2,
+    "cities": [],
+    "marks": [],
+    "colors": [],
+    "sizes": []
+  },
+  {
+    "email": "mmeamelieleduc@orange.fr",
+    "age": "41 - 50",
+    "interested": true,
+    "know": false,
+    "preference": 1,
+    "cities": [
+      "REIMS",
+      "LILLE"
+    ],
+    "marks": [],
+    "colors": [],
+    "sizes": [
+      37,
+      38
+    ]
+  },
+  {
+    "email": "belegou.amelie@gmail.com",
+    "age": "31 - 40",
+    "interested": true,
+    "know": true,
+    "preference": 0,
+    "cities": [
+      "ANGERS"
+    ],
+    "marks": [
+      "KICKERS"
+    ],
+    "colors": [],
+    "sizes": [
+      39,
+      40
+    ]
+  },
+  {
+    "email": "manon.berezowski@gmail.com",
+    "age": "21 - 25",
+    "interested": true,
+    "know": true,
+    "preference": 0,
+    "cities": [
+      "LILLE"
+    ],
+    "marks": [],
+    "colors": [],
+    "sizes": [
+      37,
+      38
+    ]
+  },
+  {
+    "email": "madani.farid@gmail.com",
+    "age": "31 - 40",
+    "interested": true,
+    "know": true,
+    "preference": 1,
+    "cities": [
+      "LILLE"
+    ],
+    "marks": [
+      "VANS",
+      "CONVERSE",
+      "S'Y",
+      "PRÊTENT",
+      "BIEN"
+    ],
+    "colors": [],
+    "sizes": [
+      42,
+      43
+    ]
+  },
+  {
+    "email": "mdou.doumama@gmail.com",
+    "age": "31 - 40",
+    "interested": false,
+    "know": false,
+    "preference": 2,
+    "cities": [],
+    "marks": [],
+    "colors": [],
+    "sizes": []
+  }
+]
